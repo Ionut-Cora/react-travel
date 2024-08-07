@@ -1,3 +1,18 @@
+# ReactJS Travel Website
+
+## View live website: https://ionut-cora.github.io/react-travel/
+
+<img src="react travel website.jpg" alt="react travel website" />
+
+## For this website I used:
+- [React JS](https://react.dev/) - JavaScript library
+- [React Bootstrap](https://react-bootstrap.netlify.app/) - Front-End Framework for React
+- [Unsplash](https://unsplash.com/) - Free images
+- [Google Fonts](https://fonts.google.com/) - Inter Font
+
+## This travel website is a multi page custom demo website created with [React JS](https://react.dev/) and designed with [React Bootstrap](https://react-bootstrap.netlify.app/).
+The website contain 4 pages: Home, Holidays, City Breaks and Destinations. Also contains some components: Navbar, Footer, Custom Button, Search Form and more.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
