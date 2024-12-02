@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-travel/static/css/main.c4d3b498.css",
+    "main.css": "/react-travel/static/css/main.10136fd8.css",
     "main.js": "/react-travel/static/js/main.8df0950d.js",
     "static/js/453.7b8fa43e.chunk.js": "/react-travel/static/js/453.7b8fa43e.chunk.js",
     "static/media/destinations-need-inspiration-bg.jpg": "/react-travel/static/media/destinations-need-inspiration-bg.c809d2432758dc8e351b.jpg",
@@ -78,12 +78,12 @@
     "index.html": "/react-travel/index.html",
     "static/media/c-circle.svg": "/react-travel/static/media/c-circle.51dabd5920074e20b5b0b14ee211e5a6.svg",
     "static/media/chevron-right.svg": "/react-travel/static/media/chevron-right.597fe3d8ed529406dc9c3e43721773e3.svg",
-    "main.c4d3b498.css.map": "/react-travel/static/css/main.c4d3b498.css.map",
+    "main.10136fd8.css.map": "/react-travel/static/css/main.10136fd8.css.map",
     "main.8df0950d.js.map": "/react-travel/static/js/main.8df0950d.js.map",
     "453.7b8fa43e.chunk.js.map": "/react-travel/static/js/453.7b8fa43e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4d3b498.css",
+    "static/css/main.10136fd8.css",
     "static/js/main.8df0950d.js"
   ]
 }
