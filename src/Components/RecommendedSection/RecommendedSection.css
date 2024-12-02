@@ -31,3 +31,9 @@
         border-bottom-left-radius: 5px;
     }
 }
+
+@media screen and (max-width: 576px) {
+    .recommended-section h3 {
+        font-size: 1.4rem;
+    }
+}
