@@ -12,7 +12,7 @@ function EveryoneHolidaysCard(props) {
             <div className='col-sm-6 d-flex align-items-center'>
                 <Card.Body className='p-4'>
                     <p className='mb-0 text-capitalize'>{props.itemSubTitle}</p>
-                    <p className='price my-2 fw-bold text-green'>{props.itemPrice}</p>
+                    <p className='price my-2 text-green'>{props.itemPrice}</p>
                     <p className='mb-0'>per person</p>
                 </Card.Body>
                 <img src={ChevronRight} className='me-3' alt="chevron-right" />

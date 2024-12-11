@@ -8,7 +8,7 @@ function AmsterdamCityBreaksSection() {
   return (
     <div className='city-break-section my-4 my-sm-5'>
         <Container>
-            <h3 className='mb-4 mb-sm-5 text-start text-uppercase fw-semibold'>Amsterdam city breaks</h3>
+            <h2 className='mb-4 mb-sm-5 text-uppercase'><span className='text-green'>Amsterdam</span> city breaks</h2>
             <div className="row g-4">
                 {
                     AmsterdamCityBreaksItems.map((item) => <CityBreakCard key={item.id} itemImage={item.itemImage} itemTitle={item.itemTitle} itemSubTitle={item.itemSubTitle} itemNights={item.itemNights} itemPrice={item.itemPrice} />)

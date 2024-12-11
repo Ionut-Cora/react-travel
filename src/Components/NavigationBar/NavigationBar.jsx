@@ -20,13 +20,13 @@ function NavigationBar() {
                 <Navbar.Toggle aria-controls='basic-navbar-nav' className='text-light' />
                 <Navbar.Collapse id='basic-navbar-nav'>
                     <Nav className='me-auto w-100 justify-content-center'>
-                        <Link to='/' className='nav-link text-light'>Home</Link>
-                        <Link to='/holidays' className='nav-link text-light'>Holidays</Link>
-                        <Link to='/city-breaks' className='nav-link text-light text-capitalize'>City breaks</Link>
-                        <Link to='/destinations' className='nav-link text-light'>Destinations</Link>
+                        <Link to='/' className='nav-link text-light text-uppercase'>Home</Link>
+                        <Link to='/holidays' className='nav-link text-light text-uppercase'>Holidays</Link>
+                        <Link to='/city-breaks' className='nav-link text-light text-uppercase'>City breaks</Link>
+                        <Link to='/destinations' className='nav-link text-light text-uppercase'>Destinations</Link>
                     </Nav>
                     <Button variant='light'>
-                        <Link to='/' className='text-decoration-none text-capitalize text-dark text-nowrap'>Sign in</Link>
+                        <Link to='/' className='text-decoration-none text-uppercase text-dark text-nowrap'>Sign in</Link>
                     </Button>
                 </Navbar.Collapse>
             </Container>

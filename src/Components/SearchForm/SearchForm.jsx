@@ -35,7 +35,7 @@ function SearchForm() {
                 <div className='col-lg-2 mx-lg-3 my-2 my-lg-0'>
                     <Form.Control type='text' ref={checkOutRef} placeholder='Check-out date' onFocus={() => (checkOutRef.current.type = 'date')} onBlur={() => (checkOutRef.current.type = 'date')} />
                 </div>
-                <Button variant='dark' type='submit'>
+                <Button className='text-uppercase' variant='dark' type='submit'>
                     Submit
                 </Button>
             </Form>

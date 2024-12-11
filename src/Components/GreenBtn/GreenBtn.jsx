@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 function GreenBtn(props) {
   return (
     <Button id='green-btn'>
-        <Link to={props.btnLink} className='text-decoration-none text-light text-capitalize'>{props.btnTitle}</Link>
+        <Link to={props.btnLink} className='text-decoration-none text-light text-uppercase'>{props.btnTitle}</Link>
     </Button>
   )
 }

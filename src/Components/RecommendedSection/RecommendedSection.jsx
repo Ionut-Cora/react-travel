@@ -10,9 +10,9 @@ function RecommendedSection(props) {
             </div>
             <div className='row justify-content-end'>
                 <div className='col-md-6 col-lg-3 z-2'>
-                    <h3 className='text-light text-capitalize fw-semibold'>{props.itemRecommendedTitle}</h3>
+                    <h3 className='text-light text-uppercase'>{props.itemRecommendedTitle}</h3>
                     <p className='text-light'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur, laboriosam.</p>
-                    <a className='text-light text-capitalize text-decoration-none fw-semibold' href="/">Book now</a>
+                    <a className='text-light text-uppercase text-decoration-none' href="/">Book now</a>
                 </div>
             </div>
         </Container>

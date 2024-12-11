@@ -26,6 +26,15 @@
     font-size: 1.5rem;
 }
 
+.recent-holidays .btn,
+.recent-holidays .h5,
+.recent-holidays .price {
+    font-family: "Anton SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 1px;
+}
+
 @media screen and (max-width: 576px) {
     .recent-holidays .img-div {
         height: 200px;

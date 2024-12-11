@@ -9,15 +9,13 @@ function RecentHolidayCard(props) {
             <div className='img-div img-hover col-sm-6'></div>
             <div className='col-sm-6'>
                 <Card.Body className='p-4'>
-                    <Card.Title className='text-start text-uppercase fw-bold'>{props.itemTitle}</Card.Title>
+                    <Card.Title className='text-start text-uppercase'>{props.itemTitle}</Card.Title>
                     <ul className='list-unstyled'>
                         <li className='text-start'>{props.itemDescription}</li>
                         <li className='text-start'>{props.itemNights}</li>
-                        <li className='price text-start text-green'>
-                            <strong>{props.itemPrice}</strong>pp
-                        </li>
+                        <li className='price text-start text-green'>{props.itemPrice}</li>
                     </ul>
-                    <Button variant='dark'>View Now</Button>
+                    <Button className='text-uppercase' variant='dark'>View Now</Button>
                 </Card.Body>
             </div>
         </Card>
