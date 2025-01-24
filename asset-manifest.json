@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-travel/static/css/main.922995b8.css",
-    "main.js": "/react-travel/static/js/main.8606109d.js",
+    "main.css": "/react-travel/static/css/main.ebbbdd88.css",
+    "main.js": "/react-travel/static/js/main.9401c74f.js",
     "static/js/453.7b8fa43e.chunk.js": "/react-travel/static/js/453.7b8fa43e.chunk.js",
     "static/media/destinations-need-inspiration-bg.jpg": "/react-travel/static/media/destinations-need-inspiration-bg.c809d2432758dc8e351b.jpg",
     "static/media/city-breaks-hero-bg.jpg": "/react-travel/static/media/city-breaks-hero-bg.23c2ab89ac1570597a63.jpg",
@@ -74,16 +74,14 @@
     "static/media/amsterdam-hotel3.jpg": "/react-travel/static/media/amsterdam-hotel3.2a4455642068355bf047.jpg",
     "static/media/france-hotel6.jpg": "/react-travel/static/media/france-hotel6.904ed25a690f64fd9992.jpg",
     "static/media/london-hotel6.jpg": "/react-travel/static/media/london-hotel6.2e484d275144e82f0f61.jpg",
-    "static/media/airplane.svg": "/react-travel/static/media/airplane.00d9a2642172d86f9270f31bf57443e0.svg",
     "index.html": "/react-travel/index.html",
-    "static/media/c-circle.svg": "/react-travel/static/media/c-circle.51dabd5920074e20b5b0b14ee211e5a6.svg",
     "static/media/chevron-right.svg": "/react-travel/static/media/chevron-right.597fe3d8ed529406dc9c3e43721773e3.svg",
-    "main.922995b8.css.map": "/react-travel/static/css/main.922995b8.css.map",
-    "main.8606109d.js.map": "/react-travel/static/js/main.8606109d.js.map",
+    "main.ebbbdd88.css.map": "/react-travel/static/css/main.ebbbdd88.css.map",
+    "main.9401c74f.js.map": "/react-travel/static/js/main.9401c74f.js.map",
     "453.7b8fa43e.chunk.js.map": "/react-travel/static/js/453.7b8fa43e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.922995b8.css",
-    "static/js/main.8606109d.js"
+    "static/css/main.ebbbdd88.css",
+    "static/js/main.9401c74f.js"
   ]
 }
