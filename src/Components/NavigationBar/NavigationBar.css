@@ -6,9 +6,17 @@
     border-color: white;
 }
 
+.navbar .navbar-toggler:focus {
+    box-shadow: none;
+}
+
 .navbar .navbar-toggler-icon,
 .navbar .navbar-brand img {
     filter: invert();
+}
+
+.navbar .navbar-brand a {
+    font-family: "Anton SC", sans-serif;
 }
 
 .navbar .navbar-brand img {
