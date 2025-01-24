@@ -15,7 +15,7 @@ function RecentHolidayCard(props) {
                         <li className='text-start'>{props.itemNights}</li>
                         <li className='price text-start text-green'>{props.itemPrice}</li>
                     </ul>
-                    <Button className='text-uppercase' variant='dark'>View Now</Button>
+                    <Button className='text-capitalize fw-semibold' variant='dark'>View Now</Button>
                 </Card.Body>
             </div>
         </Card>
